@@ -7,6 +7,7 @@ public class App
     	
    Veg v=(Veg) appContext.getBean("vegetable1");
     	System.out.println(v.getName());
+        //edited 2nd time
 
     }
 }
